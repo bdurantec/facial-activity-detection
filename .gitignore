@@ -1,3 +1,8 @@
+# Medias of project
+app/src/resources/Output_activities_detection.mp4
+app/src/resources/Output_facial_detection.mp4
+app/src/resources/Report.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

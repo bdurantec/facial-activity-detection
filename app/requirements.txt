@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+tqdm
+deepface
+tf_keras
