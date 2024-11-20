@@ -92,7 +92,7 @@ class FacialDetector:
                 cv2.putText(
                     frame,
                     smoothed_emotion,
-                    (x, y + 10),
+                    (x, y + 20),
                     cv2.FONT_HERSHEY_SIMPLEX,
                     0.7,
                     (255, 255, 0),
